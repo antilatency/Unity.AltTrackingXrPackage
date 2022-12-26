@@ -1,0 +1,17 @@
+{
+    "name": "Antilatency.AltTrackingXr",
+    "rootNamespace": "",
+    "references": [
+        "Antilatency.SDK",
+        "UnityEngine.SpatialTracking"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
