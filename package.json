@@ -1,7 +1,7 @@
 {
   "name": "com.antilatency.alt-tracking-xr",
   "displayName": "Alt Tracking XR",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.4",
   "description": "This package contains example implementation of headset tracking with Antilatency tracking system and Unity XR platform.",
   "documentationUrl": "https://developers.antilatency.com/Root/Index_en.html",
